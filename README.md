@@ -1,5 +1,5 @@
 ### Hi, Iam Anirudh Karanth 👋
-- 🌱 I’m currently learning NextJS
+- 🌱 I’m currently learning NextJS, websockets...
 
 [![An image of @anirudhkaranth's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/anirudhkaranth)](https://holopin.io/@anirudhkaranth)
 <!--
