@@ -1,6 +1,6 @@
 ### Hi, Iam Anirudh Karanth 
 - 🌱 I’m currently learning Computer science
--  🔭 I’m currently working on [something](https://github.com/AnirudhKaranth/video-chat)
+-  🔭 I’m currently working on [something](https://github.com/AnirudhKaranth/Gesture-Talk)
 
 [![An image of @anirudhkaranth's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/anirudhkaranth)](https://holopin.io/@anirudhkaranth)
 <!--
